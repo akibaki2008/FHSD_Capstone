@@ -1,4 +1,6 @@
-# Akshay Subramanian CLass: FHSD Cap Stone Project #4 #
+# Akshay Subramanian #
+#CLass: FHSD Cap Stone Project #4 #
+
 import subprocess
 import tkinter as tk
 import tkinter.scrolledtext as tksc
